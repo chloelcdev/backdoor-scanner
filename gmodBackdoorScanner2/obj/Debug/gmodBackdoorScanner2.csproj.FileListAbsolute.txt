@@ -1,0 +1,10 @@
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\bin\Debug\gmodBackdoorScanner2.exe.config
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\bin\Debug\gmodBackdoorScanner2.exe
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\bin\Debug\gmodBackdoorScanner2.pdb
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.csprojAssemblyReference.cache
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.Form1.resources
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.Properties.Resources.resources
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.csproj.GenerateResource.cache
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.csproj.CoreCompileInputs.cache
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.exe
+C:\Users\Doctor\source\repos\gmodBackdoorScanner2\gmodBackdoorScanner2\obj\Debug\gmodBackdoorScanner2.pdb
